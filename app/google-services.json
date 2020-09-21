@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301022886735",
+    "firebase_url": "https://userinputauth.firebaseio.com",
+    "project_id": "userinputauth",
+    "storage_bucket": "userinputauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301022886735:android:5c810df2a9d30ed2ffa33a",
+        "android_client_info": {
+          "package_name": "com.example.userinputauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301022886735-186e9q69gjpdolp1p1u1ief0v110g1jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.userinputauth",
+            "certificate_hash": "5743d95b81e01cfb9ae789715df2fbd6b250f9a1"
+          }
+        },
+        {
+          "client_id": "301022886735-2ht8nkm682t2raaccuic46i1cm47t6qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_NWKm1XZTUmiitqaQ2jZjYR0zheYDQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301022886735-2ht8nkm682t2raaccuic46i1cm47t6qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
